@@ -7,7 +7,6 @@ CryptoBuddy is a command-line chatbot that analyzes real-time cryptocurrency dat
 ## 🚀 Features
 
 - Conversational crypto assistant in the terminal
-- Real-time data integration from the CoinGecko API
 - Recommendations based on:
   - 📈 Profitability (rising trends)
   - 🌱 Sustainability (eco-friendly coins)
