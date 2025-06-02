@@ -19,7 +19,6 @@ crypto-advisor-chatbot/
 ├── crypto_advisor.py   # Main chatbot logic
 ├── main.py            # Entry point to run the bot
 ├── test_bot.py        # Test the chatbot functionality
-├── screenshotsFolder
 └── README.md          # This file
 ## 🚀 How to Run
 Option 1: Run the Interactive Chatbot
@@ -96,5 +95,9 @@ Remember: This is for educational purposes. Always do your own research before m
 
 **Screenshot**
 ![Screenshot 2025-06-02 163246](https://github.com/user-attachments/assets/78f7a373-8d3a-4b90-b6fc-3c3cfac9f98b)
+
+![Screenshot 2025-06-02 165855](https://github.com/user-attachments/assets/e94fdad2-d0d6-472c-a04b-3023bf4b8696)
+
+![Screenshot 2025-06-02 165941](https://github.com/user-attachments/assets/7b124e2d-e03f-41e5-8196-ec56d896c532)
 
 
