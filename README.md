@@ -14,4 +14,7 @@ CryptoBuddy is a command-line chatbot that analyzes real-time cryptocurrency dat
 - Dynamic responses to keywords (e.g., "green", "trending", "Bitcoin")
 - Friendly emoji-based feedback
 
----
+  **Screenshot**
+![Screenshot 2025-06-02 163246](https://github.com/user-attachments/assets/78f7a373-8d3a-4b90-b6fc-3c3cfac9f98b)
+
+
